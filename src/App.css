@@ -1,0 +1,20 @@
+.note{
+  width: 100px;
+  height: 100px;
+  background-color:rgb(157, 169, 235);    
+  position: absolute;
+  vertical-align: middle;
+  border-radius: 50px 50px 50px 50px;    
+}
+
+.numberStyle{
+  text-align: center;
+  font-size: x-large;
+  color:yellow;
+}
+
+.btnStyle{
+  width: 5em;
+  height: 3em;
+  background-color:rgb(199, 210, 233);
+} 
